@@ -1,0 +1,8 @@
+{
+  "name": "toot",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "209907e4"
+}
